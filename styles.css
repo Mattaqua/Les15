@@ -1,9 +1,6 @@
 body{
     background-color: rgba(69, 241, 241,0.5);
     padding: 7px;
-    display:flex;
-    flex-direction: column;
-    justify-content:center;
     min-height:100vh;
 }
 ul {
